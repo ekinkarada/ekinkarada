@@ -2,7 +2,7 @@
 
 <h4 align="left">About me:</h4> 
 🎓  I'm graduated from Hacettepe University, department of statistics.</br>
-👀 I’m interested in Data Analyze, Data Science and Frontend Development </br>
+👀 I’m interested in Data Analyze, Data Science and Frontend Development. </br>
 🌱 I’m currently learning React.js </br> 
 
   <h4 align="left">Connect with me:</h4>
